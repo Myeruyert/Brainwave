@@ -76,7 +76,7 @@ header ul li a {
 .intro {
   height: 100vh;
   border-radius: 10px;
-  background-image: url("https://s3-alpha-sig.figma.com/img/b46a/d358/59bfe92dcdb36ac2c2cd052f63c187cf?Expires=1717977600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Io1Do8q4rj5eXT~VZc4oR7TxRt4NE7QFFIbZ5I1BbHW~9wnIWe87r0YAJVUuoa01I25Bb8A9byLjBRRZbEy1FWKvbAaB3mhEnAUKzu52XP4yYRUP-NxmJjIlu9pwkte71uYkovws3Lx8RI3GFpskemSKAk8ww8V3I3Zsequ1hN2AUgUJREPCk013ttiirBj0Syj0Vyz6kiyGddCYLvcQabp0Oo~vVH6~zG-4RgzXLoMYQ4ViMijklUTLBBKIKxSe0TlIW1LDPOA311TuFMMdpNKJCVfIfLqoTnBJDzIqJvghtD0ysIWVyNnvROItkwTrkUPuFatGZbao8qMhURRX6w__");
+  background-image: url("https://s3-alpha-sig.figma.com/img/b46a/d358/59bfe92dcdb36ac2c2cd052f63c187cf?Expires=1731888000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=pPFmVfaOPdoUrzqCkeDRCAerJEdR46jcY05Y-I8LFjd687oH7Y7Wy~zwSrDnVz90ubOehAKgAVQD-hF6P-LrPI7lWpaoydHJENw11AIBq7TLGR-DbADm19SLTBBYzwD4VroTdFV07rxA54H~J7oXg3HlDAPqjk2ksPcmkXI1hnsagd2dwd-xkUX0SM6y1mgdm2rNYIsJFFLofSnXcIwwEgDy86qvyJkb0AhDzIXDvVZXlInpw1FsqlWxj5PaTUs4yr5~B2M8sUx22P7gPJSl79LlcH8WrrirIOMdjXMVvc5VTQu66mBt~VcG3RbVMCLsZ4PNtoyss05EGbXHIN~KTA__");
   background-size: cover;
   background-position: center;
   opacity: 1;
@@ -130,8 +130,8 @@ header ul li a {
   flex-wrap: wrap;
   width: 1200px;
   height: 850px;
-  /* gap: 30px; */
-  top: 1100px;
+  gap: 30px;
+  top: 800px;
 }
 
 .room {
@@ -330,7 +330,7 @@ h4 {
   width: 401px;
   height: 482px;
   border-radius: 10px;
-  background-image: url("https://s3-alpha-sig.figma.com/img/f5a6/b477/e81c7d11e2569db951575299bf9b3a58?Expires=1717977600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=I~8LLhlL3ZBWQOqFEG8e1ugMXZVUjUSJubq3oRBS1o2Cpd3L5Dh2A1XPoyz2rTW5VbdBRkEhJUvYZzEOw71N0APufU04XNsIgmlEUXpabeta04hwMXKN12-y-nYcEm~vYdxoiUIUvnxY3P6cVv6RAJz6DvkCNdH76SDZyv9USmF6pXQNgDOnPzR~zL~i0RCqLNH63X8VJdXGC-KRlYDoy4wP-7NjlHQKYDnT0Bpbsit5OsniSkIy8AijWRrRO4bHgR1JBBbZidHc3ySvz8xrSHSRxfWtxXdQxiiPMjXYOYeLMyo8e74lc~oOzEdz5eBDGKslQ3HHHUUmxb6yc6kFlQ__");
+  background-image: url("https://s3-alpha-sig.figma.com/img/f5a6/b477/e81c7d11e2569db951575299bf9b3a58?Expires=1731888000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=KQnYP0B2gWiFTPTH44shSSC94WXnNhwfqLfrqCq6hzeWrU8Om7Y5MnMNlPQ6Kl~wxQiDvI6Cwz~CzNFXvb~fiENn7Aub1iw1EhNfFETa4Bt7qXUANRTvT6Bpt~-AywF4ZykkL0kPT53KNFd~Q3ewVQPeq7hPYwdqeb--XrxcfTB-PcXv8kRedZRdUT63OSwWMeAoOk9d0LgdYFO-Y0zIo3jbrAcl0NoyTUPl6DHOsnTuVshIK5kdrFnaPVZq9vIIxMFk2k1PgXF7NoOwJtuWfYCtnefjcZLAm~dqlZ-5m2WpvxMJoTSGXAVj35XTutqPtEozq8TOkhAzYd1v3~F7lg__");
   background-size: 190%;
   background-position: center;
 }
@@ -426,7 +426,7 @@ q {
   width: 349px;
   height: 463px;
   border-radius: 10px;
-  background-image: url("https://s3-alpha-sig.figma.com/img/0803/448e/53d7e948ceffb1cde2b4152ff974e3f0?Expires=1717372800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=awB5xtEZYhIhvrGrI7urz3xn8Dv~4rRHq7tT0o-kFrlO6gfmrG4sGiqc96zOj0nQJNns7UuSR81GZnutGweuaFwpRbyyiQmFNeKE0Mb5W1G7EkW~vBpJbpNuUycCKLZ-X023B1b8h8l3kuc6~Cwu1OiTWn40x0qJH-dnt4AjcxhVYslCMr2HLFQMDYGK50uTtoYpK~-9Ulgr1I54pjQUveA3dUJpEoH-M~r~8X1h25uytrQCaNx~ncoctSorvEB4bmniqBblFhNZxp0iyqCxiNgmO~ecjX9zKRoh-iBmySu-DOk4rZf1sP0P0uLad9NrPchZRaiEp1r-LYcyBp7TOg__");
+  background-image: url("https://s3-alpha-sig.figma.com/img/0803/448e/53d7e948ceffb1cde2b4152ff974e3f0?Expires=1731888000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=mKiysJDb0qBjbQIU4HlTEo2rHN-Xi4aPHG6GRdJVdjRGkbcGMH7~fZXbX4pRQ8MXxrqDWY6FBHW4I4Y7IgtmF8Qr53m~sXOXnfSnDz-hx3qHB3vqLJo6HKWV5GGU9O-MgeyJFHEkAlaikpHVEVsGuZHhuCF-s5X52CNYsIrh52MTOmvLNURh0Z54C3Bhm05OVyHNxUFOheyfIDgCJrhgq3jnm~vliK3WnaRf6IyPWxf78mo2aj9w27b0cPRE0MQXJQ0z6RUYjtAiv6cRcnnuLVgYAnZNsFCtaWnWmcEAajN1bFNqUL-3rs8muUa2S5tycocn78ZgQM7b7HdL3iOeoA__");
   background-size: cover;
   background-position: center;
 }
@@ -434,7 +434,7 @@ q {
 .section5 {
   height: 100vh;
   border-radius: 10px;
-  background-image: url("https://s3-alpha-sig.figma.com/img/1665/5035/7de389adc3d05bcf51e5f29e04ce360d?Expires=1717372800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=cBm5lXwQA8a1fQjnqkvMH18vuG1EAwZozJjP20oL-Y1sIaLfzqRjenGxZXGuRyiY7PgaJTdGwWsNsc00RL2V22uXenTsKuaq0Bnv2ZKbMwVP14hb7CHxETpg2ExHbsQLXFvsCy4aLk7NgI6zf0fHfBo0EFyL0uIdguRy3ZRWby7aGQJ9rC-G1vxR6R81sRf45gY4pK6AD0~ldc4AFDPlRNSynxQ573C9Elf4Nhycv~j~zE~0fskLSTt2cf4pw7WWZLsTvKNZWaTZELw-WguGszqCCzAQLLzymG5hVmpm10D-62BLuwHJTzoqpJgh5W-W9qIRch9QnbPtdf~rNAEYOA__");
+  background-image: url("https://s3-alpha-sig.figma.com/img/1665/5035/7de389adc3d05bcf51e5f29e04ce360d?Expires=1731888000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ggXNzOkAgn6xryWRA35wcLU90U9mXxhMMptDpfuRsm5MDMDRF8H0ua~KqqoPWefiqkCgzSuaxTO1TAZqYFehQ7ZoJcsWqjsgLPPM~JJl4hD-aijv4niwvTGtLwQaABWa7N6-J3CFisxD2EfCWOm4HJtDMCug5t8LPHtBJdThLZy8T61uCxRiZybnkmPb9FW9Uz63jPyInKu0pm1QYXrKExMWHhx1WXSNj2yODtb0AUueATrc8IbN9LlvIXc3vdHo8XmidtgHEMPquHKGGz6ZcF2ijBIWUhSVBzeXsoGI91RkymDt513SZkVcLod983TVEE~eWFOoPecQE9eEmNAV5Q__");
   background-size: cover;
   background-position: center;
   display: flex;
@@ -566,4 +566,116 @@ q {
   scale: 1.5;
   transition: ease;
   transition-duration: 1s;
+}
+
+/* Responsive Styles */
+@media screen and (max-width: 1200px) {
+  .category,
+  .products {
+    width: 95%;
+  }
+
+  .products {
+    height: 1500px;
+  }
+
+  .pieces {
+    justify-content: center;
+  }
+}
+
+@media screen and (max-width: 992px) {
+  .intro h1,
+  .section5 h1 {
+    font-size: 48px;
+  }
+
+  .main {
+    height: 1050px;
+  }
+
+  .products {
+    height: 1500px;
+  }
+
+  .category {
+    justify-content: center;
+  }
+
+  .room {
+    width: 45%;
+  }
+
+  .section3,
+  .section4 {
+    flex-direction: column;
+    height: auto;
+    padding: 40px 20px;
+  }
+
+  .photo1,
+  .photo2,
+  .word,
+  .words {
+    width: 100%;
+    margin: 20px 0;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  header {
+    flex-direction: column;
+    height: auto;
+    gap: 20px;
+  }
+
+  header ul {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .room {
+    width: 90%;
+  }
+
+  .main {
+    height: 2200px;
+  }
+
+  .products {
+    height: 3900px;
+  }
+
+  .items {
+    width: 80%;
+    max-width: 255px;
+  }
+
+  .contact {
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+    text-align: center;
+  }
+
+  .border {
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .intro h1,
+  .section5 h1 {
+    font-size: 36px;
+  }
+
+  header p a {
+    margin-left: 0;
+  }
+
+  .icon a {
+    margin-right: 0;
+  }
 }
